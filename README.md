@@ -42,5 +42,7 @@ expand queries with synonyms, and retrieve the most relevant job postings using 
 
 To run the program:
 
+```bash
 pip install -r requirements.txt
 python retrieval.py
+```
